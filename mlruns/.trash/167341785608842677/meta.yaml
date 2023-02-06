@@ -1,6 +1,7 @@
 artifact_location: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/167341785608842677
 creation_time: 1675674140684
 experiment_id: '167341785608842677'
-last_update_time: 1675674140684
+last_update_time: 1675679167967
 lifecycle_stage: active
 name: loan_analysis2
+tags: {}

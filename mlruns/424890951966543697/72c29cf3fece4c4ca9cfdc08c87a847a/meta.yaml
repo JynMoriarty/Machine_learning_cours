@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Machine_learning_cours/mlruns/424890951966543697/72c29cf3fece4c4ca9cfdc08c87a847a/artifacts
+end_time: 1675679872082
+entry_point_name: ''
+experiment_id: '424890951966543697'
+lifecycle_stage: active
+run_id: 72c29cf3fece4c4ca9cfdc08c87a847a
+run_name: loud-mule-380
+run_uuid: 72c29cf3fece4c4ca9cfdc08c87a847a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675679870182
+status: 4
+tags: []
+user_id: apprenant

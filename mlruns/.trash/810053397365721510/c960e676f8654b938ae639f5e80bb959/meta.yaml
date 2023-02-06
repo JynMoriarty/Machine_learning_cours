@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Machine_learning_cours/mlruns/810053397365721510/c960e676f8654b938ae639f5e80bb959/artifacts
+end_time: 1675679490799
+entry_point_name: ''
+experiment_id: '810053397365721510'
+lifecycle_stage: active
+run_id: c960e676f8654b938ae639f5e80bb959
+run_name: handsome-elk-73
+run_uuid: c960e676f8654b938ae639f5e80bb959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675679487309
+status: 3
+tags: []
+user_id: apprenant

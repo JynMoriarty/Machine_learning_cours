@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Machine_learning_cours/mlruns/982991218428452247/4756a2204f80491aae61c9b76da55395/artifacts
+end_time: 1675678160777
+entry_point_name: ''
+experiment_id: '982991218428452247'
+lifecycle_stage: active
+run_id: 4756a2204f80491aae61c9b76da55395
+run_name: merciful-bee-166
+run_uuid: 4756a2204f80491aae61c9b76da55395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675678155230
+status: 3
+tags: []
+user_id: apprenant

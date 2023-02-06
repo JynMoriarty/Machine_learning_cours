@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Machine_learning_cours/mlruns/982991218428452247/bc993b59dcc447e8b98a827a7de38400/artifacts
+end_time: 1675678173684
+entry_point_name: ''
+experiment_id: '982991218428452247'
+lifecycle_stage: active
+run_id: bc993b59dcc447e8b98a827a7de38400
+run_name: lyrical-sheep-336
+run_uuid: bc993b59dcc447e8b98a827a7de38400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675678168152
+status: 3
+tags: []
+user_id: apprenant

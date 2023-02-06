@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Machine_learning_cours/mlruns/424890951966543697/868b548b6be443219f2b1d6de2d26020/artifacts
+end_time: 1675679618987
+entry_point_name: ''
+experiment_id: '424890951966543697'
+lifecycle_stage: active
+run_id: 868b548b6be443219f2b1d6de2d26020
+run_name: colorful-hawk-202
+run_uuid: 868b548b6be443219f2b1d6de2d26020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675679618970
+status: 4
+tags: []
+user_id: apprenant

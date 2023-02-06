@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/0/9c8c4d90cb5e43c0af059e7118feb785/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c8c4d90cb5e43c0af059e7118feb785
+run_name: valuable-rook-86
+run_uuid: 9c8c4d90cb5e43c0af059e7118feb785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675678467833
+status: 1
+tags: []
+user_id: apprenant

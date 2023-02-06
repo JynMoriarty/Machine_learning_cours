@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Documents/Machine_learning_cours/mlruns/948445927727630095/b2f9100c16c0481891081d2a99e20a66/artifacts
+end_time: 1675676266495
+entry_point_name: ''
+experiment_id: '948445927727630095'
+lifecycle_stage: active
+run_id: b2f9100c16c0481891081d2a99e20a66
+run_name: adorable-grub-547
+run_uuid: b2f9100c16c0481891081d2a99e20a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675676263427
+status: 3
+tags: []
+user_id: apprenant
