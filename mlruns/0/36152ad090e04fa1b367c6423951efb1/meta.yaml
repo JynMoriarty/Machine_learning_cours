@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/0/36152ad090e04fa1b367c6423951efb1/artifacts
+end_time: 1675674005918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36152ad090e04fa1b367c6423951efb1
+run_name: crawling-mare-816
+run_uuid: 36152ad090e04fa1b367c6423951efb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675673854834
+status: 4
+tags: []
+user_id: apprenant

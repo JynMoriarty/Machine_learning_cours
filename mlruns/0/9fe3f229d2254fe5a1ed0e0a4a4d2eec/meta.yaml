@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/0/9fe3f229d2254fe5a1ed0e0a4a4d2eec/artifacts
+end_time: 1675674474988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fe3f229d2254fe5a1ed0e0a4a4d2eec
+run_name: mysterious-skunk-549
+run_uuid: 9fe3f229d2254fe5a1ed0e0a4a4d2eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675674472818
+status: 3
+tags: []
+user_id: apprenant

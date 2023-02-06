@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/116299243359579506/602d2e05e5884cd399d42cd4b6c1aef5/artifacts
+end_time: 1675437602190
+entry_point_name: ''
+experiment_id: '116299243359579506'
+lifecycle_stage: active
+run_id: 602d2e05e5884cd399d42cd4b6c1aef5
+run_name: learned-koi-909
+run_uuid: 602d2e05e5884cd399d42cd4b6c1aef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675437549169
+status: 4
+tags: []
+user_id: apprenant

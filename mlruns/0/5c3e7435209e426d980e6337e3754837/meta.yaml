@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/0/5c3e7435209e426d980e6337e3754837/artifacts
+end_time: 1675674372174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c3e7435209e426d980e6337e3754837
+run_name: powerful-grouse-773
+run_uuid: 5c3e7435209e426d980e6337e3754837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675674368311
+status: 4
+tags: []
+user_id: apprenant

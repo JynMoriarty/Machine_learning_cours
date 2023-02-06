@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/167341785608842677/4d4591674e204eb6a7cd2caec515540c/artifacts
+end_time: 1675674628032
+entry_point_name: ''
+experiment_id: '167341785608842677'
+lifecycle_stage: active
+run_id: 4d4591674e204eb6a7cd2caec515540c
+run_name: tasteful-duck-224
+run_uuid: 4d4591674e204eb6a7cd2caec515540c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675674624972
+status: 3
+tags: []
+user_id: apprenant

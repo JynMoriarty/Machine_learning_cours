@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/116299243359579506/de0dcabd654d4646a77e10f82b697caf/artifacts
+end_time: 1675437769465
+entry_point_name: ''
+experiment_id: '116299243359579506'
+lifecycle_stage: active
+run_id: de0dcabd654d4646a77e10f82b697caf
+run_name: resilient-asp-233
+run_uuid: de0dcabd654d4646a77e10f82b697caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675437694721
+status: 4
+tags: []
+user_id: apprenant

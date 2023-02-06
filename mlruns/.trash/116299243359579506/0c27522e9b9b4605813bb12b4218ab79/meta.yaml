@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/116299243359579506/0c27522e9b9b4605813bb12b4218ab79/artifacts
+end_time: 1675437390155
+entry_point_name: ''
+experiment_id: '116299243359579506'
+lifecycle_stage: active
+run_id: 0c27522e9b9b4605813bb12b4218ab79
+run_name: handsome-zebra-958
+run_uuid: 0c27522e9b9b4605813bb12b4218ab79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675437314956
+status: 4
+tags: []
+user_id: apprenant

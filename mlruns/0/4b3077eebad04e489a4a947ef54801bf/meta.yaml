@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Bureau/Machine_learning_cours/mlruns/0/4b3077eebad04e489a4a947ef54801bf/artifacts
+end_time: 1675436941989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b3077eebad04e489a4a947ef54801bf
+run_name: mercurial-trout-649
+run_uuid: 4b3077eebad04e489a4a947ef54801bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675436928622
+status: 4
+tags: []
+user_id: apprenant
